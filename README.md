@@ -2,13 +2,9 @@
 
 My name is Matteus.
 
-🎓 IT student  
-💻 Learning software development  
-🐍 Currently studying Python  
+IT student learning software development.
 
----
-
-## 🧠 Technologies I'm Learning
+## Technologies
 
 - Python
 - HTML
@@ -17,27 +13,6 @@ My name is Matteus.
 - Git
 - Linux
 
----
+## Goals
 
-## 🚀 Goals
-
-Improve my programming skills and build projects to grow as a developer.
-
----
-
-## 📚 Current Focus
-
-- Programming logic
-- Python development
-- Git and GitHub
-- Building small projects
-
----
-
-## 📂 Projects
-
-Projects will be added here as I continue learning and building.
-
----
-
-⭐ Always learning and improving.
+Improve my programming skills and build projects.
