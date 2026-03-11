@@ -2,7 +2,7 @@
 
 My name is Matteus.
 
-IT student learning software development.
+🎓 IT student focused on software development.
 
 ## Technologies
 
@@ -15,4 +15,4 @@ IT student learning software development.
 
 ## Goals
 
-Improve my programming skills and build projects.
+Improve my programming skills and build real projects.
