@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**Matteus-s/Matteus-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matteus.
 
-Here are some ideas to get you started:
+🎓 IT student  
+💻 Learning software development  
+🐍 Currently studying Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technologies I'm Learning
+
+- Python
+- HTML
+- CSS
+- SQL
+- Git
+- Linux
+
+---
+
+## 🚀 Goals
+
+Improve my programming skills and build projects to grow as a developer.
+
+---
+
+## 📚 Current Focus
+
+- Programming logic
+- Python development
+- Git and GitHub
+- Building small projects
+
+---
+
+## 📂 Projects
+
+Projects will be added here as I continue learning and building.
+
+---
+
+⭐ Always learning and improving.
