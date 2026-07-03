@@ -17,6 +17,7 @@ IT student focused on software development.
 ## Idiomas
 
 Português — Nativo
+
 Inglês — Básico (em desenvolvimento)
 
 ## Goals
